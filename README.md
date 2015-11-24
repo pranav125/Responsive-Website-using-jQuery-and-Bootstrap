@@ -1,17 +1,15 @@
-<<<<<<< HEAD
 
-
-# CMPE280_Bootstrap
-
+# CMPE280_Bootstrap Website
+ Follow this link to access the website: http://52.27.23.8:3000/
 
 
 ## Usage
-
+Website indicates the importance of Big Data & IOT in today's world.
 
 
 ## Developing
 
-
+Developed using Bootstrap and jQuery.
 
 ### Tools
 
